@@ -1,0 +1,107 @@
+BODY,TR,TD,TABLE {
+	font-family:verdana,arial,helvetica; 
+	font-size:12px; 
+	font-weight:normal; 
+	line-height:18px;
+	color:#354454;
+	}
+	
+
+
+.testo {
+	font-family:verdana,arial,helvetica;
+	font-size:12px;
+	margin-left:15px;
+	margin-right:15px;
+	font-weight:normal;
+	color:#354454;
+}
+
+
+.titoli {
+	font-family:verdana,arial,helvetica;
+	font-size:13px;
+	margin-left:15px;
+	font-weight:bold;
+	color:#485185;
+}
+
+.titoliH {
+	font-family:verdana,arial,helvetica;
+	font-size:13px;
+	margin-top:8px;
+	font-weight:bold;
+	color:#485185;
+}
+
+.titoliC {
+	font-family:verdana,arial,helvetica;
+	font-size:13px;
+	font-weight:bold;
+	color:#DC7C1F;
+}
+
+.menu {
+	font-family:verdana,arial,helvetica;
+	font-size:11px;
+	font-weight:bold;
+	margin-left:5px;
+	color:#FFFFFF;
+}
+
+.voce {
+	font-family:verdana,arial,helvetica;
+	font-size:11px;
+	font-weight:bold;
+	margin-left:5px;
+	color:#074E5E;
+}
+
+.campi {
+	font-family:verdana,arial,helvetica;
+	font-size:10px;
+	font-weight:normal;
+	margin-left:0px;
+	margin-right:0px;
+	color:#485185;
+	background-color:#FFFFFF;
+	border : 1px solid;
+	border-color : #76BAC8;
+}
+
+.campiweb {
+	font-family:verdana,arial,helvetica;
+	font-size:11px;
+	font-weight:normal;
+	margin-left:0px;
+	margin-right:0px;
+	color:#ffffff;
+	background-color:#364D91;
+	border : 1px solid;
+	border-color : #0E215B;
+}
+
+A {
+	text-decoration:none;
+	color: #354454;
+}
+
+	
+A:Visited {
+	text-decoration: none;
+	color: #354454;
+}
+	
+
+A:Active {
+	text-decoration: none;
+	color: #6b829d;
+}
+	
+	
+A:HOVER {
+	text-decoration:none;
+	color: #6b829d;
+}
+
+
